@@ -1,7 +1,10 @@
 # improved-project-EaglercraftY-1.9.4-version
-(PLEASE DONT SUE ME Mojang/MICROSOFT!) AND PLEASE DONT PUT THIS (DMCA)
+(PLEASE DONT SUE ME Mojang/MICROSOFT!) 
 
-Planned Release date: No date Yet (may come out very)
+DMCA IS IMMORAL 
+THIS DOES NOT HAVE ANY 1.9.4 ASSETS
+
+Release Date: december 2024 at earliest
 
 (okay People I dont know how to code with java)
 *we will try to make it*
