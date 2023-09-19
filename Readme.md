@@ -1,4 +1,4 @@
-# Project-EaglercraftY-1.9.4-version
+# improved-project-EaglercraftY-1.9.4-version
 (PLEASE DONT SUE ME Mojang/MICROSOFT!) AND PLEASE DONT PUT THIS (DMCA)
 
 Planned Release date: No date Yet (may come out very)
