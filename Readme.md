@@ -11,9 +11,7 @@ Release Date: december 2024 at earliest
 (change will happen We will make a Web version of PojavLauncher and make it as an Official EaglercraftY Minecraft 1.9.4)
 
 credit to TeckyMan10892 (only Making the logo)
-heres the finished Mockup
-![Mockup two (finshed version)](https://user-images.githubusercontent.com/67106394/236259698-52b920e6-c460-420c-bd15-761bf7a8fa1a.jpg)
-TeckyMan10892[(https://www.reddit.com/user/TeckyMan10892)]
+
 
 # for Sometimes This was not developed for some time for a Reason
 First I need an official one Mcp928
