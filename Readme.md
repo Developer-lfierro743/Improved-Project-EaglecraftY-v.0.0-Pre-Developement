@@ -10,7 +10,8 @@ Release Date: late January 20th 2024
 *we will try to make it*
 using modcoderpack 928zip for the game 
 
-credit to TeckyMan10892 (only Making the logo)
+a new redesigned menu
+
 
 
 # for Sometimes This was not developed for some time for a Reason
