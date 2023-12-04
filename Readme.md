@@ -8,7 +8,7 @@ Release Date: late January 20th 2024
 
 (okay People I dont know how to code with java)
 *we will try to make it*
-(change will happen We will make a Web version of PojavLauncher and make it as an Official EaglercraftY Minecraft 1.9.4)
+using modcoderpack 928zip for the game 
 
 credit to TeckyMan10892 (only Making the logo)
 
