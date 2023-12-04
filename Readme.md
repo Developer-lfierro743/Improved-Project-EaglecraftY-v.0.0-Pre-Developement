@@ -4,7 +4,7 @@
 DMCA IS IMMORAL 
 THIS DOES NOT HAVE ANY 1.14 ASSETS
 
-Release Date: december 2024 at earliest
+Release Date: late January 20th 2024
 
 (okay People I dont know how to code with java)
 *we will try to make it*
