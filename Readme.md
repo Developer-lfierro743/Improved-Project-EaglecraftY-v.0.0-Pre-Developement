@@ -2,9 +2,9 @@
 (PLEASE DONT SUE ME Mojang/MICROSOFT!) 
 
 DMCA IS IMMORAL 
-THIS DOES NOT HAVE ANY 1.14 ASSETS
+THIS DOES NOT HAVE ANY 1.14 or 1.9.4 ASSETS
 
-Release Date: March 1st 2024
+Release Date: April  20th 2024
 
 (okay People I dont know how to code with java)
 *we will try to make it*
