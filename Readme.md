@@ -28,6 +28,22 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
 
 
 
+
+
+
+
+
+
+
+# THIS REPO DOES NOT CONTAIN:
+- the Source files of Minecraft 1.14 or 1.9.4
+- Assets (of Minecraft  1.14 or 1.9.4)
+
+# THIS REPO DOES INCLUDE:
+- LWJGL code for Emulation for Key input(and other connections)
+- WebSockets Secure(wss://) connections
+
+
 DMCA IS IMMORAL 
 THIS DOES NOT HAVE ANY 1.14 or 1.9.4 ASSETS
 
