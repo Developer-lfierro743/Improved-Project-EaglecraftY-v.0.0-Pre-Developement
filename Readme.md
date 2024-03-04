@@ -35,13 +35,6 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
 
 
 
-# THIS REPO DOES NOT CONTAIN:
-- the Source files of Minecraft 1.14 or 1.9.4
-- Assets (of Minecraft  1.14 or 1.9.4)
-
-# THIS REPO DOES INCLUDE:
-- LWJGL code for Emulation for Key input(and other connections)
-- WebSockets Secure(wss://) connections
 
 
 DMCA IS IMMORAL 
@@ -49,7 +42,7 @@ THIS DOES NOT HAVE ANY 1.14 or 1.9.4 ASSETS
 
 Release Date: April  20th 2024
 
-(okay People I dont know how to code with java)
+(okay People I dont know how to code with Java)
 *we will try to make it*
 using modcoderpack 928zip for the game 
 
@@ -68,3 +61,16 @@ I will try Mimicking the Mojang Loading Screen
 Programing Langauges:
 Javascript,java,html5
 to compile it into the Teavm
+
+
+
+
+
+# THIS REPO DOES NOT CONTAIN:
+- the Source files of Minecraft 1.14 or 1.9.4
+- Assets (of Minecraft  1.14 or 1.9.4)
+
+# THIS REPO DOES INCLUDE:
+- LWJGL code for Emulation for Key input(and other connections)
+- WebSockets Secure(wss://) connections
+- without owning a copy of Minecraft/EaglercraftY
