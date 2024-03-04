@@ -1,7 +1,23 @@
 # improved-project-EaglercraftY-beta(v.0.1)
-(PLEASE DONT SUE ME Mojang/MICROSOFT!) 
+(PLEASE DONT SUE ME Mojang/MICROSOFT!)
 
-# welcome to EaglercraftY official repo of EaglercraftY!
+## what is EaglercraftY? 
+**EaglercraftY** 
+is the Next Generation of EaglercraftX(based Minecraft on 1.8.8) and Eaglercraft(based on Minecraft 1.5.2)
+created by **lax1dude**, it converts Java bytecode into javascript using **TeaVM**, allowing Minecraft to run directly in web browsers.
+unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Entirly Original Assets.
+
+
+# core concepts:
+**Open Exploration/Open world**: crafting takes on New dimensions
+**Advanced crafting Mechanics**:
+**Quest-free enviorment**:
+**improved Features**:
+
+
+
+#Moner
+
 
 
 DMCA IS IMMORAL 
