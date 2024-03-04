@@ -1,6 +1,9 @@
 # improved-project-EaglercraftY-beta(v.0.1)
 (PLEASE DONT SUE ME Mojang/MICROSOFT!) 
 
+# welcome to EaglercraftY official repo of EaglercraftY!
+
+
 DMCA IS IMMORAL 
 THIS DOES NOT HAVE ANY 1.14 or 1.9.4 ASSETS
 
