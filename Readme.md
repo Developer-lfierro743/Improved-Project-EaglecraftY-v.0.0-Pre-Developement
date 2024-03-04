@@ -1,30 +1,42 @@
 # improved-project-EaglercraftY-beta(v.0.1)
 (PLEASE DONT SUE ME Mojang/MICROSOFT!)
 
-## what is EaglercraftY? 
+## What is EaglercraftY? 
 **EaglercraftY** 
 is the Next Generation of EaglercraftX(based Minecraft on 1.8.8) and Eaglercraft(based on Minecraft 1.5.2)
 created by **lax1dude**, it converts Java bytecode into javascript using **TeaVM**, allowing Minecraft to run directly in web browsers.
-unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Entirly Original Assets.
+unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Entirely Original Assets.
 
 
 # core concepts:
 **Open Exploration/Open world**: crafting takes on New dimensions
 
-**Advanced crafting Mechanics**:
+**Advanced crafting Mechanics**: -enchaments became more intricate
 
-**Quest-free enviorment**:
-
+**Quest-free/Advancements environment**: Quests? NOT HERE! EaglercraftY Embraces a Quest-free/Advancement environment.
+ 
 **improved Features**:
+-**chat Reporting**: A robust System ensures a safer online space.
+-**AI Moderation**: The team is Integrating AI tools for a Better player experience.
 
 
 
 # Monetization and Features
-- EaglercraftY
+- EaglercraftY is Available for a **one time purchase** of **$40.00 USD DOLLARS**
+- the design team at **Xojang Studioz ZB** has meticulously crafted **original assets**
+- Expect Features that diverge from Vanilla Minecraft, making EaglercraftY a Fresh Experience.
 
 
 
 # upcoming Developments:
+1.**COMING SOON**
+- 
+2.**New generation Seeds**
+
+3.**HOGLOG SEED**
+
+4.**Additional Entities***
+
 
 
 
