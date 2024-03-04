@@ -10,13 +10,21 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
 
 # core concepts:
 **Open Exploration/Open world**: crafting takes on New dimensions
+
 **Advanced crafting Mechanics**:
+
 **Quest-free enviorment**:
+
 **improved Features**:
 
 
 
-#Moner
+# Monetization and Features
+- EaglercraftY
+
+
+
+# upcoming Developments:
 
 
 
