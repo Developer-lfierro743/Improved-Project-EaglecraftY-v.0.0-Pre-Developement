@@ -16,26 +16,37 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
 **Quest-free/Advancements environment**: Quests? NOT HERE! EaglercraftY Embraces a Quest-free/Advancement environment.
  
 **improved Features**:
+
 -**chat Reporting**: A robust System ensures a safer online space.
+
 -**AI Moderation**: The team is Integrating AI tools for a Better player experience.
 
 
 
 # Monetization and Features
+
 - EaglercraftY is Available for a **one time purchase** of **$40.00 USD DOLLARS**
+
 - the design team at **Xojang Studioz ZB** has meticulously crafted **original assets**
+
 - Expect Features that diverge from Vanilla Minecraft, making EaglercraftY a Fresh Experience.
 
 
 
 # upcoming Developments:
 1.**COMING SOON**
+
 - EaglercraftY will initially launch as **web Browser Game**.
+
 - The team is actively working on overcoming challenges Related to **TCP connections** and other complexities to create a Fully functional game within your Browser.
+
+
 2.**New generation Seeds**
-  - Exciting New Seeds await Exploration. 
+- Exciting New Seeds await Exploration. 
+
 3.**HOGLOG SEED**
     -This Mysterious seed from the bedrock Editon of Minecraft adds intrigue.
+
 4.**Additional Entities***
     -EaglercraftY plans to introduce **New entities** in future updates, enriching the gameplay experience.
 
