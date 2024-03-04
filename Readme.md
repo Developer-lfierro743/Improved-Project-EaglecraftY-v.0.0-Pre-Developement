@@ -30,17 +30,14 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
 
 # upcoming Developments:
 1.**COMING SOON**
-- 
+- EaglercraftY will initially launch as **web Browser Game**.
+- The team is actively working on overcoming challenges Related to **TCP connections** and other complexities to create a Fully functional game within your Browser.
 2.**New generation Seeds**
-
+  - Exciting New Seeds await Exploration. 
 3.**HOGLOG SEED**
-
+    -This Mysterious seed from the bedrock Editon of Minecraft adds intrigue.
 4.**Additional Entities***
-
-
-
-
-
+    -EaglercraftY plans to introduce **New entities** in future updates, enriching the gameplay experience.
 
 
 
