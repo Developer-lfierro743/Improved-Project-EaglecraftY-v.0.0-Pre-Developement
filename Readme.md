@@ -108,4 +108,8 @@ to compile it into the Teavm
 - without owning a copy of Minecraft/EaglercraftY
 
 
+DEVELOPMENT Team:
+developer-lfierro743
+(other developers will Help me)
+
 © Xojang Studioz ZB 2024-2025 All rights Reserved 
