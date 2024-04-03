@@ -1,11 +1,11 @@
-# improved-project-EaglercraftY-beta(v.0.1)
+# improved-project-EaglecraftY-beta(v.0.1)
 (PLEASE DONT SUE ME Mojang/MICROSOFT!)
 
-## What is EaglercraftY? 
-**EaglercraftY** 
+## What is EaglecraftY? 
+**EaglecraftY** 
 is the Next Generation of EaglercraftX(based Minecraft on 1.8.8) and Eaglercraft(based on Minecraft 1.5.2)
 created by **lax1dude**, it converts Java bytecode into javascript using **TeaVM**, allowing Minecraft to run directly in web browsers.
-unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Entirely Original Assets.
+unlike its predecessors, EaglecraftY avoids DMCA and copyright concerns by Entirely Original Assets.
 
 
 # core concepts:
@@ -13,7 +13,7 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
 
 **Advanced crafting Mechanics**: -enchaments became more intricate
 
-**Quest-free/Advancements environment**: Quests? NOT HERE! EaglercraftY Embraces a Quest-free/Advancement environment.
+**Quest-free/Advancements environment**: Quests? NOT HERE! EaglecraftY Embraces a Quest-free/Advancement environment.
  
 **improved Features**:
 
@@ -25,7 +25,7 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
 
 # Monetization and Features
 
-- EaglercraftY is Available for a **one time purchase** of **$40.00 USD DOLLARS**
+- EaglecraftY is Available for a **one time purchase** of **$40.00 USD DOLLARS**
 
 - the design team at **Xojang Studioz ZB** has meticulously crafted **original assets**
 
@@ -36,7 +36,7 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
 # upcoming Developments:
 1.**COMING SOON**
 
-- EaglercraftY will initially launch as **web Browser Game**.
+- EaglecraftY will initially launch as **web Browser Game**.
 
 - The team is actively working on overcoming challenges Related to **TCP connections** and other complexities to create a Fully functional game within your Browser.
 
@@ -48,7 +48,7 @@ unlike its predecessors, EaglercraftY avoids DMCA and copyright concerns by Enti
     -This Mysterious seed from the bedrock Editon of Minecraft adds intrigue.
 
 4.**Additional Entities***
-    -EaglercraftY plans to introduce **New entities** in future updates, enriching the gameplay experience.
+    -EaglecraftY plans to introduce **New entities** in future updates, enriching the gameplay experience.
 
 
 
