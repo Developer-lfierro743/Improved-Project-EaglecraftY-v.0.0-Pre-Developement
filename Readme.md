@@ -71,7 +71,7 @@ THIS DOES NOT HAVE ANY 1.14 or 1.9.4 ASSETS
 
 
 
-Release Date: April  20th 2024
+Release Date: August 25th 2025(DEYLAYED AGAIN PUSHED)
 
 (okay People I dont know how to code with Java)
 *we will try to make it*
