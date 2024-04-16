@@ -1,116 +1,65 @@
-# improved-project-EaglecraftY-beta(v.0.1)
-(PLEASE DONT SUE ME Mojang/MICROSOFT!)
+# Improved Project-EaglecraftY Beta (v0.1)
 
-## What is EaglecraftY? 
-**EaglecraftY** 
-is the Next Generation of EaglercraftX(based Minecraft on 1.8.8) and Eaglercraft(based on Minecraft 1.5.2)
-created by **lax1dude**, it converts Java bytecode into javascript using **TeaVM**, allowing Minecraft to run directly in web browsers.
-unlike its predecessors, EaglecraftY avoids DMCA and copyright concerns by Entirely Original Assets.
+(*Please refrain from any legal action, Mojang/MICROSOFT!)
 
+## What is EaglecraftY?
+**EaglecraftY** marks the Next Generation of EaglercraftX (based on Minecraft 1.8.8) and Eaglercraft (based on Minecraft 1.5.2), innovated by **lax1dude**. This rendition converts Java bytecode into JavaScript using **TeaVM**, enabling Minecraft to seamlessly run in web browsers. Diverging from its predecessors, EaglecraftY boasts entirely original assets, steering clear of DMCA and copyright concerns.
 
-# core concepts:
-**Open Exploration/Open world**: crafting takes on New dimensions
+# Core Concepts:
+**Open Exploration/Open World**: Crafting unfolds into new dimensions.
 
-**Advanced crafting Mechanics**: -enchaments became more intricate
+**Advanced Crafting Mechanics**: Enchantments evolve into intricacy.
 
-**Quest-free/Advancements environment**: Quests? NOT HERE! EaglecraftY Embraces a Quest-free/Advancement environment.
- 
-**improved Features**:
+**Quest-Free/Advancements Environment**: Quests? Not here! EaglecraftY embraces a quest-free/advancement environment.
 
--**chat Reporting**: A robust System ensures a safer online space.
+**Improved Features**:
 
--**AI Moderation**: The team is Integrating AI tools for a Better player experience.
+- **Chat Reporting**: A robust system ensures a safer online space.
+  
+- **AI Moderation**: Integration of AI tools enhances the player experience.
 
+# Monetization and Features:
 
+- EaglecraftY is available for a **one-time purchase** of **$40.00 USD**.
 
-# Monetization and Features
+- Meticulously crafted **original assets** by the design team at **Xojang Studioz ZB**.
 
-- EaglecraftY is Available for a **one time purchase** of **$40.00 USD DOLLARS**
+- Expect features diverging from Vanilla Minecraft, promising a fresh experience.
 
-- the design team at **Xojang Studioz ZB** has meticulously crafted **original assets**
+# Upcoming Developments:
 
-- Expect Features that diverge from Vanilla Minecraft, making EaglercraftY a Fresh Experience.
+1. **COMING SOON**:
+   
+   - EaglecraftY will debut as a **web browser game**.
+   
+   - The team actively tackles challenges related to **TCP connections** and other complexities for a fully functional in-browser experience.
 
+2. **New Generation Seeds**:
+   
+   - Exciting new seeds await exploration.
 
+3. **HOGLOG SEED**:
+   
+   - This mysterious seed from the Bedrock Edition of Minecraft adds intrigue.
 
-# upcoming Developments:
-1.**COMING SOON**
+4. **Additional Entities**:
+   
+   - EaglecraftY plans to introduce new entities in future updates, enriching the gameplay experience.
 
-- EaglecraftY will initially launch as **web Browser Game**.
+(*DMCA is considered immoral; any attempts may lead to real trouble*)
 
-- The team is actively working on overcoming challenges Related to **TCP connections** and other complexities to create a Fully functional game within your Browser.
+(*This version does not include any 1.14 or 1.9.4 assets*)
 
+**Release Date:** August 25th, 2025 (DELAYED AGAIN, PUSHED)
 
-2.**New generation Seeds**
-- Exciting New Seeds await Exploration. 
+(*Programming languages: JavaScript, Java, HTML5, compiled into TeaVM*)
 
-3.**HOGLOG SEED**
-    -This Mysterious seed from the bedrock Editon of Minecraft adds intrigue.
+(*This repository does not contain source files of Minecraft 1.14 or 1.9.4, nor their assets*)
 
-4.**Additional Entities***
-    -EaglecraftY plans to introduce **New entities** in future updates, enriching the gameplay experience.
+(*This repository includes LWJGL code for emulation for key input and other connections, WebSocket Secure (wss://) connections without owning a copy of Minecraft/EaglecraftY*)
 
+# Development Team:
 
+Developer: lfierro743 (other developers will assist)
 
-
-
-
-
-
-DMCA IS IMMORAL (if you try DMCA you will be in Real Trouble)
-
-THIS DOES NOT HAVE ANY 1.14 or 1.9.4 ASSETS
-
-
-
-
-
-
-
-
-
-
-
-Release Date: August 25th 2025(DEYLAYED AGAIN PUSHED)
-
-(okay People I dont know how to code with Java)
-*we will try to make it*
-using modcoderpack 928zip for the game 
-
-a new redesigned menu
-
-
-
-# for Sometimes This was not developed for some time for a Reason
-First I need an official one Mcp928
-
-Second A Programing Environment (Visual Code program) (itopia Labs program)
-
-Third change some assets (using a different name called Xojang! (plus I am the Ceo of the creation of the Company)
-I will try Mimicking the Mojang Loading Screen 
-
-Programing Langauges:
-Javascript,java,html5
-to compile it into the Teavm
-
-
-
-
-
-# THIS REPO DOES NOT CONTAIN:
-- the Source files of Minecraft 1.14 or 1.9.4
-- Assets (of Minecraft  1.14 or 1.9.4)
-
-
-# THIS REPO DOES INCLUDE:
-- LWJGL code for Emulation for Key input(and other connections)
-- WebSockets Secure(wss://) connections
-- without owning a copy of Minecraft/EaglercraftY
-
-
-# DEVELOPMENT Team:
-
-Developer-lfierro743
-(other developers will Help me)
-
-© Xojang Studioz ZB 2024-2025 All rights Reserved 
+© Xojang Studioz ZB 2024-2025. All rights reserved.
