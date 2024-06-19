@@ -50,7 +50,8 @@
 
 (*This version does not include any 1.14 or 1.9.4 assets*)
 
-**Release Date:** August 25th, 2025 (DELAYED AGAIN, PUSHED)
+**Release Date(new date):** August 25th, 2025 (DELAYED AGAIN, PUSHED)
+
 
 (*Programming languages: JavaScript, Java, HTML5, compiled into TeaVM*)
 
