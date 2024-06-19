@@ -63,4 +63,6 @@
 
 Developer: lfierro743 (other developers will assist)
 
+please note:this is not affiliated with Mojang studios AB and Microsoft or Minecraft(it a standalone game!) 
+
 © Xojang Studioz ZB 2024-2025. All rights reserved.
