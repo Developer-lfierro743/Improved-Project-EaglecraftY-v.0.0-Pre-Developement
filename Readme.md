@@ -20,7 +20,7 @@
 
 # Monetization and Features:
 
-- EaglecraftY is available for a **one-time purchase** of **$40.00 USD**.
+- EaglecraftY is available for a **one-time purchase** of **$40.96 USD**.
 
 - Meticulously crafted **original assets** by the design team at **Xojang Studioz ZB**.
 
