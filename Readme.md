@@ -8,6 +8,8 @@
 # bad news:
 today marks a new bad era some developers of on a group chat for the development team of EaglecraftY is making toxic stuff,hate,etc on discord
 
+it makes the game so delayed and it impossible to complete it!!! 
+
 
 
 
