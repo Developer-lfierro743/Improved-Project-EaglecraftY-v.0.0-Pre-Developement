@@ -20,7 +20,7 @@
 
 ## Monetization and Features:
 
-- EaglecraftY is available for a **one-time purchase** of **$48.96 USD**. No hidden fees or microtransactions, ensuring that all players have access to the full experience without additional costs.
+- EaglecraftY is available for a **one-time purchase** of **$40.99 USD**. No hidden fees or microtransactions, ensuring that all players have access to the full experience without additional costs.
 
 - Meticulously crafted **original assets** by the design team at **Xojang Studioz ZB**. Every texture, model, and sound has been created from scratch to provide a unique aesthetic that sets EaglecraftY apart from other games.
 
