@@ -1,2 +1,3 @@
-welcome to  to the new game and early development of the game of EaglecraftY 
-currently it in development so a early version so it may have bugs, glitches,etc
+Title: "EaglecraftY: Soaring into Early Access"
+
+Welcome, intrepid explorers, to the fledgling world of EaglecraftY! Our game is spreading its wings in early development, inviting you to be part of an evolving adventure. As you soar through this digital landscape, expect to encounter the occasional turbulence—bugs and glitches may cross your path. But fear not! Your experience and feedback are the wind beneath our wings, propelling us toward a polished final release. Every glitch you spot, every idea you share, helps us refine EaglecraftY into the game of our dreams. Join us in this exciting journey as we craft, build, and soar together!
