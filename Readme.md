@@ -6,12 +6,19 @@ is a new video game will dethrone Minecraft!
 ------------------------------------------------------------------
 # Our features:
 1.Better inventory space 50(seriously we're not joking) slots!
+
 2.New mobs!
+
 3.Overpowered items/trades(red command block,etc)
+
 4.Crafting tiers(basic, advanced, Overpowered)
+
 5.Revamped hearts system(instead of one row of hearts you have 2 rows of hearts)
+
 6.Revamped Exp bar(2x greenish and exp clumps(not exp orbs) to keep the game stable.
+
 7.New Mechanic: Thirst system
+
 8.New world generation(Simplex)
 -------------------------------------------------------------------
 money/Monetization:
