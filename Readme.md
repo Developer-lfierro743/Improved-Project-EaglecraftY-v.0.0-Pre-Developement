@@ -24,9 +24,11 @@ is a new video game will dethrone Minecraft!
 -------------------------------------------------------------------
 money/Monetization:
 price:$40.99(one-time purchase)
+
 what is included?
 game(EaglecraftY) + launcher
 1 month ***free trial** to test our subscription based service called EaglecraftY realms(than $15.00/per month)
+
 --------------------------------------------------------------------
 2 original music disks!
 
