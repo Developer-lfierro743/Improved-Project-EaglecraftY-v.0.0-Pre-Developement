@@ -28,3 +28,5 @@ game(EaglecraftY) + launcher
 1 month ***free trial** to test our subscription based service called EaglecraftY realms(than $15.00/per month)
 --------------------------------------------------------------------
 2 original music disks!
+
+### copyright ©️ Xojang Studioz ZB(not affiliated with Mojang studios Ab and Microsoft)
