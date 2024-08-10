@@ -20,6 +20,7 @@ is a new video game will dethrone Minecraft!
 7.New Mechanic: Thirst system
 
 8.New world generation(Simplex)
+
 -------------------------------------------------------------------
 money/Monetization:
 price:$40.99(one-time purchase)
