@@ -29,4 +29,5 @@ game(EaglecraftY) + launcher
 --------------------------------------------------------------------
 2 original music disks!
 
-### copyright ©️ Xojang Studioz ZB(not affiliated with Mojang studios Ab and Microsoft)
+**copyright ©️ Xojang Studioz ZB(not affiliated with Mojang studios Ab and Microsoft)**
+we are a independent video game company who is our main flagship game 
