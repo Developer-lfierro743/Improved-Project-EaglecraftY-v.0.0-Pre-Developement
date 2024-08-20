@@ -21,6 +21,9 @@ is a new video game will dethrone Minecraft!
 
 8.New world generation(Simplex)
 
+9.fps 10000000000000+ fps (alot of fps)
+Github repo
+
 -------------------------------------------------------------------
 money/Monetization:
 price:$40.99(one-time purchase)
