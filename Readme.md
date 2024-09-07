@@ -25,7 +25,7 @@ is a new video game will dethrone Minecraft!
 
 -------------------------------------------------------------------
 money/Monetization:
-price:$40.99(one-time purchase)
+price:$20.99(one-time purchase)
 
 what is included?
 game(EaglecraftY) + launcher
