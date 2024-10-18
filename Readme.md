@@ -1,38 +1,39 @@
-# Welcome to Improved-Project-EaglecraftY V0.0 (Pre-Development)!
-------------------------------------------------------------------
-# What is it?!?
-Improved-Project-EaglecraftY V0.0 Pre-Development 
-is a new video game will dethrone Minecraft!
-------------------------------------------------------------------
-# Our features:
-1.Better inventory space 50(seriously we're not joking) slots!
+# Welcome to Improved-Project-EaglecraftY V0.0 (Pre-Development)!**
+===========================================================
 
-2.New mobs!
+**What is it?**
+---------------
 
-3.Overpowered items/trades(red command block,etc)
+Improved-Project-EaglecraftY V0.0 Pre-Development is an ambitious new video game that aims to surpass Minecraft. This project is still in its early stages, but we're excited to share our vision with you.
 
-4.Crafting tiers(basic, advanced, Overpowered)
+**Key Features**
+----------------
 
-5.Revamped hearts system(instead of one row of hearts you have 2 rows of hearts)
+* **Massive Inventory**: 50 slots to store all your essentials (no, we're not joking!)
+* **New Mobs**: Encounter fresh challenges and adventures
+* **Overpowered Items & Trades**: Unlock the power of red command blocks and more
+* **Crafting Tiers**: Progress through basic, advanced, and overpowered crafting levels
+* **Revamped Hearts System**: Double your health with two rows of hearts
+* **Improved Exp Bar**: Enjoy a stable gaming experience with 2x greenish exp clumps (no exp orbs)
+* **Thirst System**: Manage your character's hydration in a whole new way
+* **New World Generation**: Explore vast, procedurally generated worlds using Simplex
+* **Blazing Performance**: Experience 900+ fps for seamless gameplay no optimazation mods required only normal mods!
 
-6.Revamped Exp bar(2x greenish and exp clumps(not exp orbs) to keep the game stable.
+**Monetization**
+----------------
 
-7.New Mechanic: Thirst system
+* **One-Time Purchase**: Get the game and launcher for $20.99
+* **Free Trial**: Enjoy a 1-month free trial of our subscription-based service, EaglecraftY Realms (then $15.00/month)
 
-8.New world generation(Simplex)
+**Bonus Content**
+-----------------
 
-9.fps 900+ fps (alot of fps)
+* **2 Original Music Disks**: Immerse yourself in our unique soundtrack
 
--------------------------------------------------------------------
-money/Monetization:
-price:$20.99(one-time purchase)
+**About Us**
+-------------
 
-what is included?
-game(EaglecraftY) + launcher
-1 month ***free trial** to test our subscription based service called EaglecraftY realms(than $15.00/per month)
+* **Copyright**: Xojang Studioz ZB (not affiliated with Mojang Studios Ab and Microsoft)
+* **Independent Game Studio**: We're a passionate team dedicated to creating our flagship game, EaglecraftY.
 
---------------------------------------------------------------------
-2 original music disks!
-
-**copyright ©️ Xojang Studioz ZB(not affiliated with Mojang studios Ab and Microsoft)**
-we are a independent video game company who is our main flagship game 
+I made some changes to improve readability, consistency, and overall flow. I also added some Markdown formatting to make the text more visually appealing. Let me know if you have any specific feedback or if there's anything else I can help with!
