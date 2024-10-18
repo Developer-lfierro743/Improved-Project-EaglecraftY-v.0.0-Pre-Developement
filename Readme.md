@@ -35,5 +35,3 @@ Improved-Project-EaglecraftY V0.0 Pre-Development is an ambitious new video game
 
 * **Copyright**: Xojang Studioz ZB (not affiliated with Mojang Studios Ab and Microsoft)
 * **Independent Game Studio**: We're a passionate team dedicated to creating our flagship game, EaglecraftY.
-
-I made some changes to improve readability, consistency, and overall flow. I also added some Markdown formatting to make the text more visually appealing. Let me know if you have any specific feedback or if there's anything else I can help with!
